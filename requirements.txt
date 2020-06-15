@@ -1,0 +1,11 @@
+Flask
+Flask-Session
+psycopg2-binary
+SQLAlchemy
+json
+jsonify
+os
+requests
+render_template
+request_url
+redirect
