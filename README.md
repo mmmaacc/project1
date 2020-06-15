@@ -1,5 +1,8 @@
 # Project 1
 
+Maria Ours
+06/15/2020
+
 Web Programming with Python and JavaScript
 
 Per the requirements, I made a database in Heroku.
